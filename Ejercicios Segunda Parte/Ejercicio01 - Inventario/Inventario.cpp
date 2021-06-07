@@ -168,7 +168,7 @@ void AjustePositivoDeInventario()
 //Inicia el programa principal, donde se mostrará el menu principal del sistema de inventario
 int main(int argc, char const *argv[])
 {
-    //Varible a utilizar
+    //Variable a utilizar
     int opcion = 0;
 
     //Inicia ciclo while
