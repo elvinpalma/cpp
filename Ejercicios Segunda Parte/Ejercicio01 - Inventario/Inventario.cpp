@@ -165,7 +165,7 @@ void AjustePositivoDeInventario()
     MovimientoInventario(codigo, cantidad, "+");
 }
 
-//Programa principal, donde se mostrará el menu principal del sistema de inventario
+//Inicia el programa principal, donde se mostrará el menu principal del sistema de inventario
 int main(int argc, char const *argv[])
 {
     //Varible a utilizar
