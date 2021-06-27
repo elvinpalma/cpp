@@ -47,9 +47,6 @@ int main(int argc, char** argv)
 
     Total = Subtotal - CalculoDescuento + CalculoImpuesto;
 
-
-    
-
     //Salida
     cout << endl;
     cout << "Total a pagar es: " << Total;
