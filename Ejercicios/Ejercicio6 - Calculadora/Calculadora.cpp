@@ -13,7 +13,7 @@ int main(int argc, char** argv)
     int SumaResultado = 0;
     int RestaResultado = 0;
     int MultiplicacionResultado = 0;
-    int DivisionResultado = 0;
+    float DivisionResultado = 0;
 
     cout << "Ingrese el valor de a: ";
     cin >> a;
