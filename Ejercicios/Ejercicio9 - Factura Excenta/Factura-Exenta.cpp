@@ -1,5 +1,9 @@
+//Elvin Noé Palma Hernádez  20192001535
+
+//Biblioteca a utilizar
 #include <iostream>
 
+//Establecer std
 using namespace std;
 
 int main(int argc, char** argv) 
@@ -51,5 +55,6 @@ int main(int argc, char** argv)
     cout << "Total a pagar es: " << Total;
     cout << endl;
     
+    //Finalizar programa
 	return 0;
 }
