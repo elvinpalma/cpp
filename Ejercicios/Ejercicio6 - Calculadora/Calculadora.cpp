@@ -8,8 +8,8 @@ using namespace std;
 int main(int argc, char** argv) 
 {
     //Datos de entrada
-    int a = 0;
-    int b = 0;
+    float a = 0;
+    float b = 0;
     int SumaResultado = 0;
     int RestaResultado = 0;
     int MultiplicacionResultado = 0;
