@@ -10,38 +10,38 @@ int main(int argc, char const *argv[])
     cin >> Nota;
     cout << endl;
 
-    if (Nota >= 95 && Nota <= 100)
+    if (Nota >= 96 && Nota <= 100)
     {
-        cout << "Obtuviste una A";
+        cout << "Obtuviste una A++";
     }
     else
     {
 
-        if (Nota >= 85 && Nota <= 94)
+        if (Nota >= 91 && Nota <= 95)
         {
-            cout << "Obtuviste una B";
+            cout << "Obtuviste una A+";
         }
         else
         {
-            if (Nota >= 75 && Nota <= 84)
+            if (Nota >= 86 && Nota <= 90)
             {
-                cout << "Obtuviste una C";
+                cout << "Obtuviste una A";
             }
             else
             {
-                if (Nota >= 60 && Nota <= 74)
+                if (Nota >= 81 && Nota <= 85)
                 {
-                    cout << "Obtuviste una E";
+                    cout << "Obtuviste una A-";
                 }
                 else
                 {
-                  if (Nota >= 60 && Nota <= 74)
+                  if (Nota >= 76 && Nota <= 80)
                     {
-                        cout << "Obtuviste una E";
+                        cout << "Obtuviste una B+";
                     }
                     else
                     {
-                        if (Nota >= 0 && Nota < 60)
+                        if (Nota >= 71 && Nota <= 75)
                         {
                             cout << "Obtuviste una F";
                         }
