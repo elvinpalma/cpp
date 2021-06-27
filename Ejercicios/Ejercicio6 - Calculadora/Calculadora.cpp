@@ -10,9 +10,9 @@ int main(int argc, char** argv)
     //Datos de entrada
     float a = 0;
     float b = 0;
-    int SumaResultado = 0;
-    int RestaResultado = 0;
-    int MultiplicacionResultado = 0;
+    float SumaResultado = 0;
+    float RestaResultado = 0;
+    float MultiplicacionResultado = 0;
     float DivisionResultado = 0;
 
     cout << "Ingrese el valor de a: ";
